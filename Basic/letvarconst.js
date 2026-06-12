@@ -5,3 +5,4 @@ function testVar(){
     console.log(num); // This will work because var is function-scoped
 }
 testVar();
+
